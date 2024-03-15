@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Hello World!
-I'm hosted with GitHub Pages and Jekyll.
+[//]: # Hello World!
+[//]: # I'm hosted with GitHub Pages and Jekyll.
