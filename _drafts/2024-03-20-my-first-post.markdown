@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "My first post!"
-date:   2024-03-20 11:17:00 +0100
 categories: test
 ---
 >“Investing is like soap; the more you touch it, the smaller it gets.” — Eugene Fama 
