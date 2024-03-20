@@ -1,5 +1,5 @@
 ---
-layout: _draft
+layout: post
 title:  "My first post!"
 date:   2024-03-20 11:17:00 +0100
 categories: test
