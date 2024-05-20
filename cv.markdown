@@ -5,17 +5,19 @@ permalink: /cv/
 ---
 
 #### Profile
-  
-  
-  
+
+<br>
+<br>
+<br>
+
 # **Viet Cuong Truong**
 
 I started my career as graphic designer for printed media, quickly followed by designs for brands and visual identities. After I realised that my main passion was in digital design, I took the transition to focus my expertise to become a full stack digital designer. I have gathered solid understandings for design and development and becomed very well versed in everything digital design. I love exploring playful and beautiful designs that pushes bounderies — always with the user’s perspective in mind.
 
 Finally, I'm an avid runner, biker, hiker and a father.
-  
-  
-  
+
+<br><br><br>
+
 #### Experience
 
 # **UI/UX Designer – Epical**
