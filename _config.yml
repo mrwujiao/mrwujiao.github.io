@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mr.wujiao
+title: Mr Wu Jiao
 email: wujiao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Full stack designer with experiences in graphic design, brands and visual identities, digital design, UI/UX design and product design. With solid understandings for design and development. Exploring playful and beautiful designs that pushes bounderies — with the user’s perspective in mind.
