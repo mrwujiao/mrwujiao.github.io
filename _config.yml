@@ -22,7 +22,7 @@ title: Mr Wu Jiao
 email: wujiao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Full stack designer with experiences in graphic design, brands and visual identities, digital design, UI/UX design and product design.
-  
+  <br>
   With solid understandings for design and development. — Exploring playful and simple designs that solves complex problems with the user’s perspective in mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
