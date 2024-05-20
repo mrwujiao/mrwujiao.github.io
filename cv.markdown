@@ -20,23 +20,19 @@ Finally, I'm an avid runner, biker, hiker and a father.
 
 # **UI/UX Designer – Epical**
 
-*2022 – Present*
+##### *2022 – Present*
 
 UI/UX Designer part of small, well-knit teams, consulting on behalf of Epical for various projects and clients.
 
-<br>
-
 # **Design Lead – Mutate**
 
-*2019 – 2022*
+##### *2019 – 2022*
 
 Design Lead and Product Design. Responsible for creating coherent and easy to understand user experience of Mutate platform. Work varies from Product feature explorations, Tools creations, Brand development, UI/UX to Workshop Facilitation and mentoring junior designers and developers alike.
 
-<br>
-
 # **Freelance Designer – Toca Boca, Toca TV, Sago Mini, Vimla, Readmill, Brickmark, Doberman, Trippwell, Arbetsförmedlingen, Bonnier Growth Media, Bonnier R&D, Everyread, Konstfack, Ritator, Storängen Design, Gunnar Cyrén AB**
 
-*2008 – 2019*
+##### *2008 – 2019*
 
 Consulting companies and organizations on Design and Brand. Helping with ideation and creating experiences based on actual needs. Work vaires from Brand development, Visual Identity, Logo Design, Icon Design, UI/UX, Web Design, Print Design, Packaging to Workshop Faciliation and Business Design to Brand Strategy.
 
@@ -46,7 +42,7 @@ Consulting companies and organizations on Design and Brand. Helping with ideatio
 
 # **Floraformeln – Kolla! Digital identitets design (Guld)**
 
-*2010*
+##### *2010*
 
 In collaboration with fellow designer Alexis Holmqvist, we was awarded “gold” in category – digital visual identity 2010 – for our work with Floraformeln
 
@@ -56,39 +52,31 @@ In collaboration with fellow designer Alexis Holmqvist, we was awarded “gold�
 
 # **Master of Fine Arts, Graphic Design – Konstfack**
 
-*2005 – 2008*
+##### *2005 – 2008*
 
 An education where students with previous design experience fine-tune design and visual communication skills. The focus of the work was to excel in overarching design principles and critical design thinking.
 
-<br>
-
 # **Internship – Central Academy of Fine Arts**
 
-*2006 – 2007*
+##### *2006 – 2007*
 
 One year internship within The Olympic Studio at Central Academy of Fine Arts, Beijing. As a student at Konstfack I was invited to join a special internship at The Olympic Studio. At The Olympic Studio I worked with visual communication for Beijing 2008 Olympics.
 
-<br>
-
 # **Bachelor of Fine Arts, Graphic Design – Konstfack**
 
-*2002 – 2005*
+##### *2002 – 2005*
 
 Bachelor degree focused on graphic design, visual communications, art and design history. The focus of the work was to excel in craftmanship of design and visual communication.
 
-<br>
-
 # **Art studies – Nyckelviksskolan**
 
-*2001 – 2002*
+##### *2001 – 2002*
 
 Focused on graphic design and visual communication.
 
-<br>
-
 # **Art studies – Konstskolan Basis**
 
-*1999 – 2001*
+##### *1999 – 2001*
 
 Focused on arts and craft.
 
