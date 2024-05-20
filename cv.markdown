@@ -11,7 +11,9 @@ permalink: /cv/
 I started my career as graphic designer for printed media, quickly followed by designs for brands and visual identities. After I realised that my main passion was in digital design, I took the transition to focus my expertise to become a full stack digital designer. I have gathered solid understandings for design and development and becomed very well versed in everything digital design. I love exploring playful and beautiful designs that pushes bounderies — always with the user’s perspective in mind.
 
 Finally, I'm an avid runner, biker, hiker and a father.
-
+\
+\
+\
 **Experience**
 
 # **UI/UX Designer – Epical**
@@ -31,7 +33,9 @@ Design Lead and Product Design. Responsible for creating coherent and easy to un
 *2008 – 2019*
 
 Consulting companies and organizations on Design and Brand. Helping with ideation and creating experiences based on actual needs. Work vaires from Brand development, Visual Identity, Logo Design, Icon Design, UI/UX, Web Design, Print Design, Packaging to Workshop Faciliation and Business Design to Brand Strategy.
-
+\
+\
+\
 **Awards**
 
 # **Floraformeln – Kolla! Digital identitets design (Guld)**
@@ -39,7 +43,9 @@ Consulting companies and organizations on Design and Brand. Helping with ideatio
 *2010*
 
 In collaboration with fellow designer Alexis Holmqvist, we was awarded “gold” in category – digital visual identity 2010 – for our work with Floraformeln
-
+\
+\
+\
 **Educations**
 
 # **Master of Fine Arts, Graphic Design – Konstfack**
@@ -71,7 +77,9 @@ Focused on graphic design and visual communication.
 *1999 – 2001*
 
 Focused on arts and craft.
-
+\
+\
+\
 **References**
 
 Provided upon request
