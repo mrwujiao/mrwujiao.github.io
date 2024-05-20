@@ -8,7 +8,6 @@ permalink: /cv/
 
 \
 \
-\
 
 # **Viet Cuong Truong**
 
@@ -16,7 +15,6 @@ I started my career as graphic designer for printed media, quickly followed by d
 
 Finally, I'm an avid runner, biker, hiker and a father.
 
-\
 \
 \
 \
