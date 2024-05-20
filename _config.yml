@@ -29,7 +29,7 @@ twitter_username: notwitteranymore
 github_username:  mrwujiao
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
