@@ -4,11 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
-#### Profile
+<br><br>
 
-<br>
-<br>
-<br>
+#### Profile
 
 # **Viet Cuong Truong**
 
@@ -16,7 +14,7 @@ I started my career as graphic designer for printed media, quickly followed by d
 
 Finally, I'm an avid runner, biker, hiker and a father.
 
-<br><br><br>
+<br><br>
 
 #### Experience
 
@@ -26,9 +24,7 @@ Finally, I'm an avid runner, biker, hiker and a father.
 
 UI/UX Designer part of small, well-knit teams, consulting on behalf of Epical for various projects and clients.
 
-\
-\
-\
+<br>
 
 # **Design Lead – Mutate**
 
@@ -36,9 +32,7 @@ UI/UX Designer part of small, well-knit teams, consulting on behalf of Epical fo
 
 Design Lead and Product Design. Responsible for creating coherent and easy to understand user experience of Mutate platform. Work varies from Product feature explorations, Tools creations, Brand development, UI/UX to Workshop Facilitation and mentoring junior designers and developers alike.
 
-\
-\
-\
+<br>
 
 # **Freelance Designer – Toca Boca, Toca TV, Sago Mini, Vimla, Readmill, Brickmark, Doberman, Trippwell, Arbetsförmedlingen, Bonnier Growth Media, Bonnier R&D, Everyread, Konstfack, Ritator, Storängen Design, Gunnar Cyrén AB**
 
@@ -46,12 +40,7 @@ Design Lead and Product Design. Responsible for creating coherent and easy to un
 
 Consulting companies and organizations on Design and Brand. Helping with ideation and creating experiences based on actual needs. Work vaires from Brand development, Visual Identity, Logo Design, Icon Design, UI/UX, Web Design, Print Design, Packaging to Workshop Faciliation and Business Design to Brand Strategy.
 
-\
-\
-\
-\
-\
-\
+<br><br>
 
 #### Awards
 
@@ -61,12 +50,7 @@ Consulting companies and organizations on Design and Brand. Helping with ideatio
 
 In collaboration with fellow designer Alexis Holmqvist, we was awarded “gold” in category – digital visual identity 2010 – for our work with Floraformeln
 
-\
-\
-\
-\
-\
-\
+<br><br>
 
 #### Educations
 
@@ -76,9 +60,7 @@ In collaboration with fellow designer Alexis Holmqvist, we was awarded “gold�
 
 An education where students with previous design experience fine-tune design and visual communication skills. The focus of the work was to excel in overarching design principles and critical design thinking.
 
-\
-\
-\
+<br>
 
 # **Internship – Central Academy of Fine Arts**
 
@@ -86,9 +68,7 @@ An education where students with previous design experience fine-tune design and
 
 One year internship within The Olympic Studio at Central Academy of Fine Arts, Beijing. As a student at Konstfack I was invited to join a special internship at The Olympic Studio. At The Olympic Studio I worked with visual communication for Beijing 2008 Olympics.
 
-\
-\
-\
+<br>
 
 # **Bachelor of Fine Arts, Graphic Design – Konstfack**
 
@@ -96,9 +76,7 @@ One year internship within The Olympic Studio at Central Academy of Fine Arts, B
 
 Bachelor degree focused on graphic design, visual communications, art and design history. The focus of the work was to excel in craftmanship of design and visual communication.
 
-\
-\
-\
+<br>
 
 # **Art studies – Nyckelviksskolan**
 
@@ -106,9 +84,7 @@ Bachelor degree focused on graphic design, visual communications, art and design
 
 Focused on graphic design and visual communication.
 
-\
-\
-\
+<br>
 
 # **Art studies – Konstskolan Basis**
 
@@ -116,12 +92,7 @@ Focused on graphic design and visual communication.
 
 Focused on arts and craft.
 
-\
-\
-\
-\
-\
-\
+<br><br>
 
 #### References
 
