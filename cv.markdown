@@ -15,7 +15,9 @@ I started my career as graphic designer for printed media, quickly followed by d
 Finally, I'm an avid runner, biker, hiker and a father.
 
 <br>
+
 ---
+
 <br>
 
 #### Experience
@@ -45,7 +47,9 @@ Design Lead and Product Design. Responsible for creating coherent and easy to un
 Consulting companies and organizations on Design and Brand. Helping with ideation and creating experiences based on actual needs. Work vaires from Brand development, Visual Identity, Logo Design, Icon Design, UI/UX, Web Design, Print Design, Packaging to Workshop Faciliation and Business Design to Brand Strategy.
 
 <br>
+
 ---
+
 <br>
 
 #### Awards
@@ -57,7 +61,9 @@ Consulting companies and organizations on Design and Brand. Helping with ideatio
 In collaboration with fellow designer Alexis Holmqvist, we was awarded “gold” in category – digital visual identity 2010 – for our work with Floraformeln
 
 <br>
+
 ---
+
 <br>
 
 #### Educations
@@ -101,7 +107,9 @@ Focused on graphic design and visual communication.
 Focused on arts and craft.
 
 <br>
+
 ---
+
 <br>
 
 #### References
